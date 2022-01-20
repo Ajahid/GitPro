@@ -6,7 +6,8 @@ public class test {
 
 		
 		System.out.println();
-		System.out.println("Printing this line on 01/2012022 ");
+		System.out.println("Printing this line on 01/20/2022 ");
+		System.out.println("Second print 01/20/2022 ");
 		
 	}
 
